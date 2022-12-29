@@ -1,0 +1,3 @@
+# Deep Thoughts
+Deep Thoughts is a social network site where you can make posts, comments, view profiles, and add friends. This site was created using the Client Server file structure with an Express, MongoDB/Mongoose, and GraphQL back-end, and a React/Apollo front-end. Clone the repository, use npm install to install the dependencies, and use npm develop to start the server to check out localhost:3000 in a browser and view the site.
+![website](/website.jpg)
